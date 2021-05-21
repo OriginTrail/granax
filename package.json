@@ -1,40 +1,4 @@
 {
-  "_args": [
-    [
-      "@deadcanaries/granax@3.2.5",
-      "/Users/miloskotlar/ot-node"
-    ]
-  ],
-  "_from": "@deadcanaries/granax@3.2.5",
-  "_id": "@deadcanaries/granax@3.2.5",
-  "_inBundle": false,
-  "_integrity": "sha512-umsEYedNQWLSlkDnGynR8bY0pVWq2hKN1JLtV9Jit7srYHqdo+XIEsUNejq1nNBiX83WhUZVe4gOqvg8ovdMMQ==",
-  "_location": "/@deadcanaries/granax",
-  "_phantomChildren": {
-    "fs.realpath": "1.0.0",
-    "inflight": "1.0.6",
-    "inherits": "2.0.3",
-    "minimatch": "3.0.4",
-    "once": "1.4.0",
-    "path-is-absolute": "1.0.1"
-  },
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "@deadcanaries/granax@3.2.5",
-    "name": "@deadcanaries/granax",
-    "escapedName": "@deadcanaries%2fgranax",
-    "scope": "@deadcanaries",
-    "rawSpec": "3.2.5",
-    "saveSpec": null,
-    "fetchSpec": "3.2.5"
-  },
-  "_requiredBy": [
-    "/@deadcanaries/hsv3"
-  ],
-  "_resolved": "https://registry.npmjs.org/@deadcanaries/granax/-/granax-3.2.5.tgz",
-  "_spec": "3.2.5",
-  "_where": "/Users/miloskotlar/ot-node",
   "author": {
     "name": "Emery Rose Hall",
     "email": "emery@deadcanaries.org"
@@ -58,7 +22,6 @@
     "chai": "^3.5.0",
     "coveralls": "^3.0.2",
     "eslint": "^5.15.1",
-    "ink-docstrap": "git+https://gitlab.com/deadcanaries/docstrap.git",
     "istanbul": "^0.4.5",
     "jsdoc": "^3.4.3",
     "mocha": "^5.2.0",
